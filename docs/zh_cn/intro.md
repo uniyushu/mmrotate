@@ -48,12 +48,12 @@ y (pi/2 rad)
 ```
 
 `CW` 的旋转矩阵
-
+```
 \begin{pmatrix}
 \cos\alpha & -\sin\alpha \\
 \sin\alpha & \cos\alpha
 \end{pmatrix}
-
+```
 
 `CW` 的旋转变换
 ```math

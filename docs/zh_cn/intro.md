@@ -48,7 +48,7 @@ y (pi/2 rad)
 ```
 
 `CW` 的旋转矩阵
-```{math}
+```math
 \begin{pmatrix}
 \cos\alpha & -\sin\alpha \\
 \sin\alpha & \cos\alpha

@@ -56,7 +56,7 @@ y (pi/2 rad)
 ```
 
 `CW` 的旋转变换
-```{math}
+```math
 P_A=
 \begin{pmatrix} x_A \\ y_A\end{pmatrix}
 =
